@@ -1,4 +1,4 @@
-### Hi there, I'm Abhinav (RZWSHRE)...
+# Hi there, I'm Abhinav (RZWSHRE)...
 
 
 - 🔭 I’m currently working on multiple Web Applications.
@@ -25,13 +25,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]('https://vrezn0v.github.io/Abhinav/')
 [<img align="left" alt="Abhinav Tomar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]('https://linkedin.com/in/abhinav_tomar')
 [<img align="left" alt="Rez No Might | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]('https://instagram.com/rzwshre._')
 [<img align="left" alt="Rez Was Here | Soundcloud" width="22px" src="http://simpleicons.org/icons/soundcloud.svg" />]('https://soundcloud.com/rzwshre')
+<br />
 
 ## Now Playing 🎧:
-[<img src="https://now-playing-vrezn0v.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lk4c4zyxs4nepqevilaezuexq)
+[<img src="https://https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lk4c4zyxs4nepqevilaezuexq)
