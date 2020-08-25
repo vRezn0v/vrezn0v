@@ -1,4 +1,4 @@
-# Hi there, I'm Abhinav (RZWSHRE)...
+# Hi there, I'm Abhinav (RZWSHRE)
 
 
 - 🔭 I’m currently working on multiple Web Applications.
@@ -35,4 +35,4 @@
 <br />
 
 ## Now Playing 🎧:
-[<img src="https://https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lk4c4zyxs4nepqevilaezuexq)
+[<img src="https://https://now-playing-profile-livid.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lk4c4zyxs4nepqevilaezuexq)
