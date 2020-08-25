@@ -33,6 +33,3 @@
 [<img align="left" alt="Rez No Might | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]('https://instagram.com/rzwshre._')
 [<img align="left" alt="Rez Was Here | Soundcloud" width="22px" src="http://simpleicons.org/icons/soundcloud.svg" />]('https://soundcloud.com/rzwshre')
 <br />
-
-## Now Playing 🎧:
-[<img src="https://now-playing-profile.vrezn0v.vercel.app/now-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lk4c4zyxs4nepqevilaezuexq)
