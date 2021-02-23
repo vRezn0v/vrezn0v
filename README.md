@@ -1,7 +1,6 @@
 # Hi there, I'm Abhinav (RZWSHRE)
 
 
-- 🔭 I’m currently working on Lo Life Bot and Chadbox.
 - 🌱 I’m currently learning UI/UX Design Process.
 - 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about Linux (maybe?).
