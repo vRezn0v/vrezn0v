@@ -1,8 +1,5 @@
 # Hi there, I'm Abhinav (RZWSHRE)
 
-
-- 🌱 I’m currently learning UI/UX Design Process.
-- 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about Linux (maybe?).
 - 📫 How to reach me: You don't, I find you (kidding, scroll down a bit..).
 - ⚡ Fun fact: I make music too.
