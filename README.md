@@ -1,4 +1,4 @@
-## <div align="center">👋 Hello There! I'm Abhinav</div>  
+## <div align="center">👋 Hello There! I'm Abhinav (definitely not the thing in the GIF over there)</div>  
   
 
 <div align="right">
